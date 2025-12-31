@@ -14,26 +14,19 @@
 
 ## 🔥 GitHub Activity
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 ---
 
 ## 🛠 Technical Skills
 
 ### 💻 Programming Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python" />
 </p>
 
 ### ⚙ Backend Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
 </p>
 
@@ -42,19 +35,19 @@
 - Role-Based Access Control (RBAC)  
 
 ### 🎨 Frontend Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
 - Responsive UI Design  
 
 ### 🗄 Databases
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,postgresql,mongodb" />
 </p>
 
 ### 📱 Mobile & Desktop Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,java" />
 </p>
 
@@ -75,7 +68,7 @@
 ---
 
 ## 🧰 Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,eclipse,vscode,linux,pycharm" />
 </p>
 
