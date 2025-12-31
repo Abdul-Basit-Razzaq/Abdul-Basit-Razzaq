@@ -1,50 +1,65 @@
-# Abdul Basit Ibn Razzaq
-### Software Engineer | Backend & MERN Stack | Product-Focused Developer
+<h1 align="center" style="color:#38BDF8;">
+Abdul Basit Ibn Razzaq
+</h1>
 
-I am a Software Engineering graduate with hands-on experience in building **scalable web applications**, **backend systems**, and **data-driven platforms**. I enjoy working on real-world problems, designing clean APIs, and turning ideas into production-ready solutions.
+<h3 align="center" style="color:#E5E7EB;">
+Software Engineer | Backend & MERN Stack | Product-Focused Developer
+</h3>
+
+<p align="center" style="color:#9CA3AF;">
+Building scalable backend systems and data-driven platforms with clean architecture and real-world impact.
+</p>
 
 ---
 
 ## 🔥 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🛠 Technical Skills & Tools
+## 🛠 Technical Skills
 
-### Programming Languages
-- C++
-- C
-- Java
-- Python
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python" />
+</p>
 
-### Backend Development
-- Node.js
-- Express.js
-- Django
-- Fast APi
-- REST APIs
-- Authentication & Authorization
+### ⚙ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+- REST APIs  
+- Authentication & Authorization  
 - Role-Based Access Control (RBAC)
 
-### Frontend Development
-- React.js
-- HTML5
-- CSS3
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
+
 - Responsive UI Design
 
-### Databases
-- MySql
-- Firebase
-- SQLite
-- PostgreSQL (basic)
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,postgresql,mongodb" />
+</p>
 
-### Mobile & Desktop Development
-- Android Development (Java, Android Studio)
+### 📱 Mobile & Desktop
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
+</p>
+
+- Android (Java)
 - Java Swing Applications
 
-### Software Engineering & Architecture
+---
+
+## 🧩 Software Engineering & Architecture
+
 - MERN Stack Architecture
 - MVC Pattern
 - API Integration
@@ -52,45 +67,41 @@ I am a Software Engineering graduate with hands-on experience in building **scal
 - Software Requirement Specification (SRS)
 - Use Case & Swimlane Diagrams
 
-### Tools & Platforms
-- Git & GitHub
-- Postman
-- Maven
-- IntelliJ IDEA
-- Eclipse
-- Android Studio
-- VS Code
-- Linux (Ubuntu)
-- Pycharm
+---
+
+## 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,eclipse,vscode,linux,pycharm" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### CommunityFixes (Final Year Project – MERN Stack)
-A society issue reporting and resolution platform where residents can raise issues, admins prioritize them, and service teams resolve them.
+### 🔹 CommunityFixes (Final Year Project – MERN Stack)
+A society issue reporting and resolution platform enabling residents, admins, and service teams to collaborate efficiently.
 
 **Key Features**
 - Multi-role system (Resident, Admin, Service Team)
-- Issue reporting with feedback and prioritization
-- Admin restrictions module (user blocking & control)
+- Issue reporting, feedback & prioritization
+- Admin restrictions and user control
 - Real-time data handling
 
-🔗 Repository: *Pinned on profile*
+📌 *Pinned on profile*
 
 ---
 
-### Watchlytics (In Progress)
-A data-driven analytics platform for watch buyers and sellers, aggregating marketplace insights and demand signals.
+### 🔹 Watchlytics (In Progress)
+A data-driven analytics platform for watch buyers and sellers.
 
 **Focus Areas**
-- External platform data integration
+- Marketplace data integration
 - Demand analysis
 - Product intelligence dashboards
 
 ---
 
-### Hotel Management System (Android)
+### 🔹 Hotel Management System (Android)
 - User authentication
 - Hotel search & filtering
 - Room booking
@@ -98,28 +109,28 @@ A data-driven analytics platform for watch buyers and sellers, aggregating marke
 
 ---
 
-### Additional Projects
+### 🔹 Additional Projects
 - Inventory Management System (C++)
 - E-commerce Website (HTML, CSS, JavaScript)
-- Tic Tac Toe Game (C++)
+- Tic Tac Toe (C++)
 - Android Calculator App
 
 ---
 
-## 📌 What I Focus On
-- Writing clean, maintainable code
-- Backend-heavy system design
+## 🎯 What I Focus On
+- Clean, maintainable backend code
+- Scalable system design
 - Practical problem solving
-- Building products, not just demos
+- Building production-ready products
 
 ---
 
 ## 📫 Connect With Me
-
 - **LinkedIn:** https://www.linkedin.com/in/abdul-basit-ibn-razzaq  
 - **Email:** ab4382906@gmail.com  
-- **Portfolio:** *(Optional – add when ready)*
 
 ---
 
-⭐ *Feel free to explore my repositories and pinned projects.*
+<p align="center" style="color:#9CA3AF;">
+⭐ Explore my repositories and pinned projects
+</p>
