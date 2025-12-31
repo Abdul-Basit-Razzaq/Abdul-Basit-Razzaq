@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Abdul+Basit+Ibn+Razzaq;Software+Engineer;Backend+%7C+MERN+Stack+Developer"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=750&lines=ABDUL+BASIT+IBN+RAZZAQ;Software+Engineer;Backend+%7C+MERN+Stack+Developer"
     alt="Typing SVG"
   />
 </h1>
@@ -17,7 +17,7 @@
 
 ---
 
-##  GitHub Activity 
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img 
@@ -26,13 +26,16 @@
   />
 </p>
 
-> Streak will populate automatically as you start daily contributions.
+<p align="center">
+  <em>Streak will populate automatically as you start daily contributions.</em>
+</p>
 
 ---
 
-##  Technical Skills
+<h2 align="center">Technical Skills</h2>
 
-###  Programming Languages
+<h3 align="center">Programming Languages</h3>
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/></td>
@@ -44,7 +47,8 @@
 
 ---
 
-###  Backend Development
+<h3 align="center">Backend Development</h3>
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/></td>
@@ -60,7 +64,8 @@
 
 ---
 
-###  Frontend Development
+<h3 align="center">Frontend Development</h3>
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/></td>
@@ -76,7 +81,8 @@
 
 ---
 
-###  Databases
+<h3 align="center">Databases</h3>
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/></td>
@@ -89,7 +95,8 @@
 
 ---
 
-###  Mobile & Desktop
+<h3 align="center">Mobile & Desktop</h3>
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="55"/></td>
@@ -103,7 +110,8 @@
 
 ---
 
-##  Tools & Platforms
+<h2 align="center">Tools & Platforms</h2>
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/></td>
@@ -117,28 +125,32 @@
 
 ---
 
-##  Featured Projects
+<h2 align="center">Featured Projects</h2>
 
-### CommunityFixes (FYP – MERN Stack)
+<h3 align="center">CommunityFixes (FYP – MERN Stack)</h3>
+
 <p align="center">
   Multi-role system • Issue prioritization • Admin restrictions • Real-time workflows
 </p>
 
-### Watchlytics (In Progress)
+<h3 align="center">Watchlytics (In Progress)</h3>
+
 <p align="center">
   Marketplace analytics • Demand signals • Product intelligence dashboards
 </p>
 
 ---
 
-##  Focus Areas
+<h2 align="center">Focus Areas</h2>
+
 <p align="center">
   Backend-heavy systems • Scalable APIs • Clean code • Production-ready solutions
 </p>
 
 ---
 
-##  Connect With Me
+<h2 align="center">Connect With Me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-basit-ibn-razzaq">
     <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=black" />
@@ -149,5 +161,5 @@
 </p>
 
 <p align="center">
-   Explore my repositories and pinned projects
+  Explore my repositories and pinned projects
 </p>
