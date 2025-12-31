@@ -1,13 +1,13 @@
-<h1 align="center" style="color:#38BDF8;">
-Abdul Basit Ibn Razzaq
+<h1 align="center">
+  <span style="color:#38BDF8;">Abdul Basit Ibn Razzaq</span>
 </h1>
 
-<h3 align="center" style="color:#E5E7EB;">
-Software Engineer | Backend & MERN Stack | Product-Focused Developer
+<h3 align="center">
+  <span style="color:#E5E7EB;">Software Engineer | Backend & MERN Stack | Product-Focused Developer</span>
 </h3>
 
 <p align="center" style="color:#9CA3AF;">
-Building scalable backend systems and data-driven platforms with clean architecture and real-world impact.
+  Building scalable backend systems and data-driven platforms with clean architecture and real-world impact.
 </p>
 
 ---
@@ -15,7 +15,12 @@ Building scalable backend systems and data-driven platforms with clean architect
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 ---
@@ -32,40 +37,40 @@ Building scalable backend systems and data-driven platforms with clean architect
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
 </p>
 
-- REST APIs  
+- RESTful API Design  
 - Authentication & Authorization  
-- Role-Based Access Control (RBAC)
+- Role-Based Access Control (RBAC)  
 
 ### 🎨 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
-- Responsive UI Design
+- Responsive UI Design  
 
 ### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,postgresql,mongodb" />
 </p>
 
-### 📱 Mobile & Desktop
+### 📱 Mobile & Desktop Development
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,java" />
 </p>
 
-- Android (Java)
-- Java Swing Applications
+- Android Development (Java)  
+- Java Swing Applications  
 
 ---
 
 ## 🧩 Software Engineering & Architecture
 
-- MERN Stack Architecture
-- MVC Pattern
-- API Integration
-- System Design Fundamentals
-- Software Requirement Specification (SRS)
-- Use Case & Swimlane Diagrams
+- MERN Stack Architecture  
+- MVC Design Pattern  
+- API Integration  
+- System Design Fundamentals  
+- Software Requirement Specification (SRS)  
+- Use Case & Swimlane Diagrams  
 
 ---
 
@@ -79,58 +84,59 @@ Building scalable backend systems and data-driven platforms with clean architect
 ## 🚀 Featured Projects
 
 ### 🔹 CommunityFixes (Final Year Project – MERN Stack)
-A society issue reporting and resolution platform enabling residents, admins, and service teams to collaborate efficiently.
+A society issue reporting and resolution platform where residents raise issues, admins prioritize them, and service teams handle resolutions.
 
-**Key Features**
-- Multi-role system (Resident, Admin, Service Team)
-- Issue reporting, feedback & prioritization
-- Admin restrictions and user control
-- Real-time data handling
+**Key Highlights**
+- Multi-role system (Resident, Admin, Service Team)  
+- Issue reporting with feedback and prioritization  
+- Admin restriction and user control module  
+- Real-time data handling  
 
 📌 *Pinned on profile*
 
 ---
 
 ### 🔹 Watchlytics (In Progress)
-A data-driven analytics platform for watch buyers and sellers.
+A product intelligence and analytics platform for watch buyers and sellers.
 
 **Focus Areas**
-- Marketplace data integration
-- Demand analysis
-- Product intelligence dashboards
+- External marketplace data integration  
+- Demand and interest analysis  
+- Analytics dashboards  
 
 ---
 
 ### 🔹 Hotel Management System (Android)
-- User authentication
-- Hotel search & filtering
-- Room booking
-- Admin management panel
+- Secure user authentication  
+- Hotel search and filtering  
+- Room booking workflow  
+- Admin management panel  
 
 ---
 
 ### 🔹 Additional Projects
-- Inventory Management System (C++)
-- E-commerce Website (HTML, CSS, JavaScript)
-- Tic Tac Toe (C++)
-- Android Calculator App
+- Inventory Management System (C++)  
+- E-commerce Website (HTML, CSS, JavaScript)  
+- Tic Tac Toe Game (C++)  
+- Android Calculator App  
 
 ---
 
 ## 🎯 What I Focus On
-- Clean, maintainable backend code
-- Scalable system design
-- Practical problem solving
-- Building production-ready products
+- Clean, maintainable backend code  
+- Scalable system design  
+- Practical problem solving  
+- Building real, production-ready products  
 
 ---
 
 ## 📫 Connect With Me
+
 - **LinkedIn:** https://www.linkedin.com/in/abdul-basit-ibn-razzaq  
 - **Email:** ab4382906@gmail.com  
 
 ---
 
 <p align="center" style="color:#9CA3AF;">
-⭐ Explore my repositories and pinned projects
+  ⭐ Explore my repositories and pinned projects
 </p>
