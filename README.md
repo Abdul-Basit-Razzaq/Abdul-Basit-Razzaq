@@ -26,10 +26,6 @@
   />
 </p>
 
-<p align="center">
-  <em>Streak will populate automatically as you start daily contributions.</em>
-</p>
-
 ---
 
 <h2 align="center">Technical Skills</h2>
