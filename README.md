@@ -12,17 +12,6 @@
 
 ---
 
-## 🔥 GitHub Activity
-
-<p align="center">
-    <img 
-      src="https://streak-stats.demolab.com?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
-
----
 
 ## 🛠 Technical Skills
 
@@ -65,7 +54,6 @@
 ## 🧩 Software Engineering & Architecture
 
 - MERN Stack Architecture  
-- MVC Design Pattern  
 - API Integration  
 - System Design Fundamentals  
 - Software Requirement Specification (SRS)  
