@@ -1,14 +1,36 @@
 <h1 align="center">
-  <span style="color:#38BDF8;">Abdul Basit Ibn Razzaq</span>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Abdul+Basit+Ibn+Razzaq;Software+Engineer;Backend+%7C+MERN+Stack+Developer"
+    alt="Typing SVG"
+  />
 </h1>
 
-<h3 align="center">
-  <span style="color:#E5E7EB;">Software Engineer | Backend & MERN Stack | Product-Focused Developer</span>
-</h3>
-
-<p align="center" style="color:#9CA3AF;">
-  Building scalable backend systems and data-driven platforms with clean architecture and real-world impact.
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=2&section=header"
+  />
 </p>
+
+<p align="center">
+  <strong>Building scalable backend systems and data-driven platforms with clean architecture and real-world impact.</strong>
+</p>
+
+---
+
+## 🔥 GitHub Activity (Dark Theme)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Abdul-Basit-Razzaq&show_icons=true&theme=tokyonight&hide_border=true"
+    width="420"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true"
+    width="420"
+  />
+</p>
+
+> Streak will populate automatically as you start daily contributions.
 
 ---
 
@@ -17,71 +39,71 @@
 ### 💻 Programming Languages
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"/></td>
   </tr>
 </table>
+
+---
 
 ### ⚙ Backend Development
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="55"/></td>
   </tr>
 </table>
 
-- RESTful API Design  
-- Authentication & Authorization  
-- Role-Based Access Control (RBAC)  
+<p align="center">
+  REST APIs • Authentication & Authorization • RBAC • Clean Architecture
+</p>
+
+---
 
 ### 🎨 Frontend Development
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/></td>
   </tr>
 </table>
 
-- Responsive UI Design  
+<p align="center">
+  Responsive UI • Component-Based Design
+</p>
+
+---
 
 ### 🗄 Databases
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/></td>
   </tr>
 </table>
-
-### 📱 Mobile & Desktop Development
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/></td>
-  </tr>
-</table>
-
-- Android Development (Java)  
-- Java Swing Applications  
 
 ---
 
-## 🧩 Software Engineering & Architecture
+### 📱 Mobile & Desktop
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="55"/></td>
+  </tr>
+</table>
 
-- MERN Stack Architecture  
-- MVC Design Pattern  
-- API Integration  
-- System Design Fundamentals  
-- Software Requirement Specification (SRS)  
-- Use Case & Swimlane Diagrams  
+<p align="center">
+  Android Development • Java Swing Applications
+</p>
 
 ---
 
@@ -92,11 +114,8 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=maven" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=eclipse" width="50"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="50"/></td>
   </tr>
 </table>
 
@@ -104,60 +123,35 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 CommunityFixes (Final Year Project – MERN Stack)
-A society issue reporting and resolution platform where residents raise issues, admins prioritize them, and service teams handle resolutions.
+### CommunityFixes (FYP – MERN Stack)
+<p align="center">
+  Multi-role system • Issue prioritization • Admin restrictions • Real-time workflows
+</p>
 
-**Key Highlights**
-- Multi-role system (Resident, Admin, Service Team)  
-- Issue reporting with feedback and prioritization  
-- Admin restriction and user control module  
-- Real-time data handling  
-
-📌 *Pinned on profile*
-
----
-
-### 🔹 Watchlytics (In Progress)
-A product intelligence and analytics platform for watch buyers and sellers.
-
-**Focus Areas**
-- External marketplace data integration  
-- Demand and interest analysis  
-- Analytics dashboards  
+### Watchlytics (In Progress)
+<p align="center">
+  Marketplace analytics • Demand signals • Product intelligence dashboards
+</p>
 
 ---
 
-### 🔹 Hotel Management System (Android)
-- Secure user authentication  
-- Hotel search and filtering  
-- Room booking workflow  
-- Admin management panel  
-
----
-
-### 🔹 Additional Projects
-- Inventory Management System (C++)  
-- E-commerce Website (HTML, CSS, JavaScript)  
-- Tic Tac Toe Game (C++)  
-- Android Calculator App  
-
----
-
-## 🎯 What I Focus On
-- Clean, maintainable backend code  
-- Scalable system design  
-- Practical problem solving  
-- Building real, production-ready products  
+## 🎯 Focus Areas
+<p align="center">
+  Backend-heavy systems • Scalable APIs • Clean code • Production-ready solutions
+</p>
 
 ---
 
 ## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-basit-ibn-razzaq">
+    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="mailto:ab4382906@gmail.com">
+    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
 
-- **LinkedIn:** [Abdul-Basit](https://www.linkedin.com/in/abdul-basit-ibn-razzaq)  
-- **Email:** ab4382906@gmail.com  
-
----
-
-<p align="center" style="color:#9CA3AF;">
+<p align="center">
   ⭐ Explore my repositories and pinned projects
 </p>
