@@ -17,7 +17,7 @@
 
 ---
 
-## 🔥 GitHub Activity (Dark Theme)
+##  GitHub Activity (Dark Theme)
 
 <p align="center">
   <img 
@@ -34,9 +34,9 @@
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/></td>
@@ -48,7 +48,7 @@
 
 ---
 
-### ⚙ Backend Development
+###  Backend Development
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/></td>
@@ -64,7 +64,7 @@
 
 ---
 
-### 🎨 Frontend Development
+###  Frontend Development
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/></td>
@@ -80,7 +80,7 @@
 
 ---
 
-### 🗄 Databases
+###  Databases
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/></td>
@@ -93,7 +93,7 @@
 
 ---
 
-### 📱 Mobile & Desktop
+###  Mobile & Desktop
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="55"/></td>
@@ -107,7 +107,7 @@
 
 ---
 
-## 🧰 Tools & Platforms
+##  Tools & Platforms
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/></td>
@@ -121,7 +121,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### CommunityFixes (FYP – MERN Stack)
 <p align="center">
@@ -135,14 +135,14 @@
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 <p align="center">
   Backend-heavy systems • Scalable APIs • Clean code • Production-ready solutions
 </p>
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-basit-ibn-razzaq">
     <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=black" />
@@ -153,5 +153,5 @@
 </p>
 
 <p align="center">
-  ⭐ Explore my repositories and pinned projects
+   Explore my repositories and pinned projects
 </p>
