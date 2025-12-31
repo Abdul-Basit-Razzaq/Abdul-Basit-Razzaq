@@ -12,39 +12,75 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
+
+---
 
 ## 🛠 Technical Skills
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/></td>
+  </tr>
+</table>
 
 ### ⚙ Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50"/></td>
+  </tr>
+</table>
 
 - RESTful API Design  
 - Authentication & Authorization  
 - Role-Based Access Control (RBAC)  
 
 ### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/></td>
+  </tr>
+</table>
 
 - Responsive UI Design  
 
 ### 🗄 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,postgresql,mongodb" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/></td>
+  </tr>
+</table>
 
 ### 📱 Mobile & Desktop Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/></td>
+  </tr>
+</table>
 
 - Android Development (Java)  
 - Java Swing Applications  
@@ -54,6 +90,7 @@
 ## 🧩 Software Engineering & Architecture
 
 - MERN Stack Architecture  
+- MVC Design Pattern  
 - API Integration  
 - System Design Fundamentals  
 - Software Requirement Specification (SRS)  
@@ -62,9 +99,19 @@
 ---
 
 ## 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,eclipse,vscode,linux,pycharm" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=maven" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=eclipse" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="50"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -119,7 +166,7 @@ A product intelligence and analytics platform for watch buyers and sellers.
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/abdul-basit-ibn-razzaq  
+- **LinkedIn:** [Abdul-Basit](https://www.linkedin.com/in/abdul-basit-ibn-razzaq)  
 - **Email:** ab4382906@gmail.com  
 
 ---
