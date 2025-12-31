@@ -17,7 +17,7 @@
 
 ---
 
-##  GitHub Activity (Dark Theme)
+##  GitHub Activity 
 
 <p align="center">
   <img 
