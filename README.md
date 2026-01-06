@@ -17,17 +17,6 @@
 
 ---
 
-<h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Basit-Razzaq&theme=tokyonight&hide_border=true"
-    width="420"
-  />
-</p>
-
----
-
 <h2 align="center">Technical Skills</h2>
 
 <h3 align="center">Programming Languages</h3>
