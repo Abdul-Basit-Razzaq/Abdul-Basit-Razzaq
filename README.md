@@ -15,7 +15,6 @@
   <strong>Building scalable backend systems and data-driven platforms with clean architecture and real-world impact.</strong>
 </p>
 
----
 
 <h2 align="center">Technical Skills</h2>
 
