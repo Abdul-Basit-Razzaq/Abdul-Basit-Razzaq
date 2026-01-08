@@ -6,12 +6,6 @@
 </h1>
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=2&section=header"
-  />
-</p>
-
-<p align="center">
   <strong>Building scalable backend systems and data-driven platforms with clean architecture and real-world impact.</strong>
 </p>
 
