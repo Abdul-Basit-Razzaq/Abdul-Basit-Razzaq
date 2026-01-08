@@ -37,7 +37,6 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="55"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="55"/></td>
   </tr>
@@ -74,7 +73,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="55"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="55"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="55"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/></td>
   </tr>
 </table>
 
