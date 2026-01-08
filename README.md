@@ -29,7 +29,6 @@
   </tr>
 </table>
 
----
 
 <h3 align="center">Backend Development</h3>
 
@@ -45,7 +44,6 @@
   REST APIs • Authentication & Authorization • RBAC • Clean Architecture
 </p>
 
----
 
 <h3 align="center">Frontend Development</h3>
 
@@ -62,7 +60,6 @@
   Responsive UI • Component-Based Design
 </p>
 
----
 
 <h3 align="center">Databases</h3>
 
@@ -75,7 +72,6 @@
   </tr>
 </table>
 
----
 
 <h3 align="center">Mobile & Desktop</h3>
 
@@ -90,7 +86,6 @@
   Android Development • Java Swing Applications
 </p>
 
----
 
 <h2 align="center">Tools & Platforms</h2>
 
@@ -105,7 +100,6 @@
   </tr>
 </table>
 
----
 
 <h2 align="center">Featured Projects</h2>
 
@@ -121,7 +115,6 @@
   Marketplace analytics • Demand signals • Product intelligence dashboards
 </p>
 
----
 
 <h2 align="center">Focus Areas</h2>
 
@@ -129,7 +122,6 @@
   Backend-heavy systems • Scalable APIs • Clean code • Production-ready solutions
 </p>
 
----
 
 <h2 align="center">Connect With Me</h2>
 
