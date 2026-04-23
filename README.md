@@ -1,121 +1,110 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=280&section=header&text=Abdul%20Basit&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Jr.%20Software%20Engineer%20%7C%20Backend%20%26%20Systems%20Builder&descAlignY=65&descSize=18&animation=fadeIn&fontAlign=50&descAlign=50" width="100%"/>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=750&lines=Abdul+Basit;Jr.+Software+Engineer"
+    alt="Typing SVG"
+  />
+</h1>
 
-<br/>
+<p align="center">
+  <strong>Building scalable backend systems and data-driven platforms with clean architecture and real-world impact.</strong>
+</p>
 
-<div align="center">
+<h2 align="center">Technical Skills</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems...;Clean+architecture+%7C+Real-world+impact;REST+APIs+%7C+RBAC+%7C+Auth+%26+Authorization;Open+to+work+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h3 align="center">Programming Languages</h3>
 
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"/></td>
+  </tr>
+</table>
 
-<br/>
+<h3 align="center">Backend Development</h3>
 
----
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="55"/></td>
+  </tr>
+</table>
 
-##  About Me
+<p align="center">
+  REST APIs • Authentication & Authorization • RBAC • Clean Architecture
+</p>
 
-```python
-class AbdulBasit:
-    name       = "Abdul Basit"
-    role       = "Jr. Software Engineer"
-    location   = "Lahore, Pakistan 🇵🇰"
-    company    = "Zweidevs"
-    focus      = ["Backend Systems", "Scalable APIs", "Clean Architecture"]
-    currently  = "Building Watchlytics — marketplace analytics platform"
-    passion    = "Production-ready solutions with real-world impact"
-    contact    = "ab4382906@gmail.com"
-```
+<h3 align="center">Frontend Development</h3>
 
-<br/>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/></td>
+  </tr>
+</table>
 
----
+<p align="center">
+  Responsive UI • Component-Based Design
+</p>
 
-##  Tech Stack
+<h3 align="center">Databases</h3>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="55"/></td>
+  </tr>
+</table>
 
-###  Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h3 align="center">Mobile & Desktop</h3>
 
-<br/>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="55"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="55"/></td>
+  </tr>
+</table>
 
-###  Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="center">
+  Android Development • Java Swing Applications
+</p>
 
-![REST APIs](https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square&logoColor=white)
-![Auth & AuthZ](https://img.shields.io/badge/Auth%20%26%20AuthZ-8B5CF6?style=flat-square&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-7C3AED?style=flat-square&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4F46E5?style=flat-square&logoColor=white)
+<h2 align="center">Tools & Platforms</h2>
 
-<br/>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=maven" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/></td>
+  </tr>
+</table>
 
-###  Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h2 align="center">Featured Projects</h2>
 
-<br/>
+<h3 align="center">CommunityFixes (FYP – MERN Stack)</h3>
 
-###  Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center">
+  Multi-role system • Issue prioritization • Admin restrictions • Real-time workflows
+</p>
 
-<br/>
+<h3 align="center">Watchlytics (In Progress)</h3>
 
-###  Mobile & Desktop
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-##  Tools & Platforms
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
----
-
-##  Featured Projects
-
-<div align="center">
-
-|  CommunityFixes |  Watchlytics |
-|---|---|
-| **Final Year Project — MERN Stack** | **In Progress** |
-| Civic issue management platform with multi-role architecture, real-time workflows, and admin-level access control | Marketplace analytics engine delivering demand signals and product intelligence dashboards |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-|  Multi-role system &nbsp;  Issue prioritization |  Demand signals &nbsp;  Product dashboards |
-
-</div>
-
-<br/>
+<p align="center">
+  Marketplace analytics • Demand signals • Product intelligence dashboards
+</p>
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -135,16 +124,16 @@ class AbdulBasit:
 
 ---
 
-##  Focus Areas
+## Focus Areas
 
 <div align="center">
 
-| | Area | Description |
-|---|---|---|
-|  | **Backend Systems** | Robust, scalable server-side architectures |
-|  | **API Engineering** | RESTful APIs with clean contracts and auth layers |
-|  | **Data Platforms** | Pipelines and dashboards for actionable insights |
-|  | **Clean Code** | Maintainable, tested, production-grade solutions |
+| Area | Description |
+|---|---|
+| **Backend Systems** | Robust, scalable server-side architectures |
+| **API Engineering** | RESTful APIs with clean contracts and auth layers |
+| **Data Platforms** | Pipelines and dashboards for actionable insights |
+| **Clean Code** | Maintainable, tested, production-grade solutions |
 
 </div>
 
@@ -152,7 +141,7 @@ class AbdulBasit:
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
 <div align="center">
 
