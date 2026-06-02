@@ -102,27 +102,6 @@
   Marketplace analytics • Demand signals • Product intelligence dashboards
 </p>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Basit-Razzaq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Basit-Razzaq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abdul-Basit-Razzaq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
-
-</div>
-
-<br/>
-
----
 
 ## Focus Areas
 
