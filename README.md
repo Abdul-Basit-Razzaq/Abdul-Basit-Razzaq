@@ -96,11 +96,12 @@
   Multi-role system • Issue prioritization • Admin restrictions • Real-time workflows
 </p>
 
-<h3 align="center">Watchlytics (In Progress)</h3>
+<h3 align="center">chatbot (In Progress)</h3>
 
 <p align="center">
-  Marketplace analytics • Demand signals • Product intelligence dashboards
+  Fiass Searching  • local Storage indexes 
 </p>
+
 
 
 ## Focus Areas
